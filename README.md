@@ -1,4 +1,7 @@
 ## Zen Browser Uninstall Script
+**TODO**
+- [ ] Add more browsers
+
 **This script will fully uninstall zen browser and delete all data**
 
 For some reason when installing zen browser from the `install.sh` script</br>
